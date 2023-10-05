@@ -36,12 +36,12 @@ Before creating a virtual environment, it’s essential to install the necessary
 •	Open the Ubuntu terminal.
 
 •	.Update the package lists `sudo apt update` and upgrade installed packages `sudo apt upgrade` to ensure that we have the latest information about available packages using commands
+![alt](https://github.com/Maheshwari2121/create-virtual-environment/blob/07dc14a9e65b94c3b1c4d3da961559ff73f58c7c/Screenshot%20(35).png)
 
 •	If Python 3 is not already installed, you can install it using `sudo apt install python3 `.
+![alt](https://github.com/Maheshwari2121/create-virtual-environment/blob/07dc14a9e65b94c3b1c4d3da961559ff73f58c7c/sc5.png#creating-a-linux-virtual-environment-on-windows)
 
 ## Creating a Linux Virtual Environment
-
-• The python3-venv module is required to create and manage virtual environments in Python 3. Install it with the following command `sudo apt install python3-venv`
 
 • Decide on a location for your Python project and create a new directory for it. For example, `mkdir my_project` , `cd my_project`
 
@@ -56,6 +56,8 @@ Before creating a virtual environment, it’s essential to install the necessary
 ## Activating and Deactivating the Virtual Environment
 
 • When you're done working within the virtual environment, you can deactivate it by simply running: `deavtivate`
+
+![alt](https://github.com/Maheshwari2121/create-virtual-environment/blob/07dc14a9e65b94c3b1c4d3da961559ff73f58c7c/Screenshot%20(34).png)
 
 
 
