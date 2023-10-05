@@ -51,6 +51,8 @@ Before creating a virtual environment, it’s essential to install the necessary
 
 • While the virtual environment is active, you can use pip to install Python packages specific to your project. For ex: `pip install package_name`. You can now work on your Python project within the virtual environment. Any packages you install or scripts you run will be isolated within this environment.
 
+![alt](https://github.com/Maheshwari2121/create-virtual-environment/blob/8e80a58fb6899532777643eea0d5b6170c84552c/ss4.png)
+
 ## Activating and Deactivating the Virtual Environment
 
 • When you're done working within the virtual environment, you can deactivate it by simply running: `deavtivate`
