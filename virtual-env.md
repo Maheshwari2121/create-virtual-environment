@@ -1,4 +1,4 @@
-# Creating a Linux Virtual Environment on Windows
+# Creating a Python Virtual Environment on Windows
 >You can create a Python virtual environment on a Windows system using Windows Subsystem for Linux (WSL).
 
 **In this article**
@@ -9,7 +9,7 @@ Installing Ubuntu
 
 Installing Required Packages
 
-Creating a Linux Virtual Environment
+Creating a Pythoon Virtual Environment
 
 Activating and Deactivating the Virtual Environment
 
@@ -23,9 +23,9 @@ Activating and Deactivating the Virtual Environment
 •	After the update, restart the computer if prompted.
 
 ## Installing Ubuntu
-•	You can download from Microsoft Store on your Windows machine or directly from google, see [ubuntu](https://ubuntu.com/download/desktop).
+•	Download from Microsoft Store on your Windows machine or directly from google, see [ubuntu](https://ubuntu.com/download/desktop).
 
-•	Click the ”Install” button to download and install Ubuntu.
+•	Download and install the desired ubuntu version.
 
 •	Once the installation is complete, launch Ubuntu from the Start menu.
 
@@ -35,7 +35,7 @@ Before creating a virtual environment, it’s essential to install the necessary
 
 •	Open the Ubuntu terminal.
 
-•	.Update the package lists `sudo apt update` and upgrade installed packages `sudo apt upgrade` to ensure that we have the latest information about available packages using commands
+•	Update ubuntu for the latest packages and security patches `sudo apt update` and upgrade installed packages `sudo apt upgrade` to ensure that we have the latest information about available packages using commands
 ![alt](https://github.com/Maheshwari2121/create-virtual-environment/blob/07dc14a9e65b94c3b1c4d3da961559ff73f58c7c/Screenshot%20(35).png)
 
 •	If Python 3 is not already installed, you can install it using `sudo apt install python3 `.
