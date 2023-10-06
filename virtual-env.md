@@ -9,7 +9,7 @@ Installing Ubuntu
 
 Installing Required Packages
 
-Creating a Pythoon Virtual Environment
+Creating a Python Virtual Environment
 
 Activating and Deactivating the Virtual Environment
 
