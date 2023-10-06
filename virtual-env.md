@@ -41,7 +41,7 @@ Before creating a virtual environment, it’s essential to install the necessary
 •	If Python 3 is not already installed, you can install it using `sudo apt install python3 `.
 ![alt](https://github.com/Maheshwari2121/create-virtual-environment/blob/07dc14a9e65b94c3b1c4d3da961559ff73f58c7c/sc5.png#creating-a-linux-virtual-environment-on-windows)
 
-## Creating a Linux Virtual Environment
+## Creating a Python Virtual Environment
 
 • Decide on a location for your Python project and create a new directory for it. For example, `mkdir my_project` , `cd my_project`
 
